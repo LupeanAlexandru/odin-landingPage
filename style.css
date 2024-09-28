@@ -4,6 +4,9 @@ body{
     margin: 0;
 }
 
+a{
+    text-decoration: none;
+}
 .hero-container, .footer{
     background-color: #1F2937;
 }
